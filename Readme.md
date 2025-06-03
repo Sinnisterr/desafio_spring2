@@ -143,7 +143,7 @@ spring.jackson.time-zone=America/Sao_Paulo
 
 ## 📁 Estrutura do Projeto
 
-```
+``` 
 src/main/java/com/devsuperior/desafio2/
 ├── 📄 TestConfig.java          # Classe principal
 ├── 📄 Atividade.java          # Entidade Atividade
@@ -155,6 +155,12 @@ src/main/resources/
 ├── 📄 application.properties   # Configurações da aplicação
 └── 📄 import.sql              # Dados iniciais
 ```
+
+## 👤 Autor
+
+Willian Bruno
+- GitHub: https://github.com/Sinnisterr
+- LinkedIn: https://www.linkedin.com/in/willian-bruno-28924082/
 
 ## 🤝 Contribuindo
 
@@ -176,9 +182,6 @@ Este é um projeto educacional! Sinta-se à vontade para:
 - [ ] Adicionar documentação com Swagger
 - [ ] Implementar tratamento de exceções
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
